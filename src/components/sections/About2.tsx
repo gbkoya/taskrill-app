@@ -130,11 +130,11 @@ export function About2() {
                     >
                         <div className="relative w-full max-w-md lg:max-w-lg">
                             <Image
-                                src="/images/about-image.png"
+                                src="/images/google-play-badge.svg"
                                 alt="Taskrill app interface"
-                                width={500}
-                                height={500}
-                                className="w-full h-auto object-contain"
+                                width={1800}
+                                height={1800}
+                                className="w-fullh-auto object-contain"
                                 priority
                             />
                             {/* Glow behind image - light mode only */}
