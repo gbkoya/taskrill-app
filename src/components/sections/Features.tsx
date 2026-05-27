@@ -118,7 +118,7 @@ export function Features() {
               alt="Ravi"
               width={100}
               height={100}
-              className="w-24 h-24 opacity-80"
+              className="w-24 h-auto"
             />
           </motion.div>
         </div>
